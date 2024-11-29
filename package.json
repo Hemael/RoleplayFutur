@@ -1,5 +1,6 @@
 {
   "name": "dallas",
+  "homepage": "https://hemael.github.io/BuildDallas",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
